@@ -66,10 +66,8 @@ Each major content area lives in its own dedicated repository. Dive into whichev
 
 | Repository | Description |
 |---|---|
-| 🔗 [repo-name](https://github.com/) | _Short description_ |
-| 🔗 [repo-name](https://github.com/) | _Short description_ |
-| 🔗 [repo-name](https://github.com/) | _Short description_ |
-| 🔗 [repo-name](https://github.com/) | _Short description_ |
+| 🔗 [By Q-Bees](https://github.com/Q-Bees/Qiskit-v2.X-Certification-Practice-Questions/tree/main) | Exam-style practice questions for the IBM Qiskit v2.X Developer certification |
+| 🔗 [By NiankSoft](https://github.com/NiankSoft/qiskit-v2.x-training/tree/main) | Training materials and exercises for learning Qiskit v2.x |
 
 ---
 

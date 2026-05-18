@@ -69,6 +69,7 @@ Each major content area lives in its own dedicated repository. Dive into whichev
 | 🔗 [By Q-Bees](https://github.com/Q-Bees/Qiskit-v2.X-Certification-Practice-Questions/tree/main) | Exam-style practice questions for the IBM Qiskit v2.X Developer certification |
 | 🔗 [By NiankSoft](https://github.com/NiankSoft/qiskit-v2.x-training/tree/main) | Training materials and exercises for learning Qiskit v2.x |
 | 🔗 [By Arpitha](https://github.com/algovista-collab/qiskit_v2_study_materials) | Theory and Code for learning Qiskit v2.x |
+| 🔗 [By Nicolas](https://github.com/bs-ns/qiskit-v2-exam-notes) | Study group notes |
 
 ---
 
